@@ -1,16 +1,60 @@
-# payflow
+#                                                     PayFlow
+![payflow-nlw](https://user-images.githubusercontent.com/74657202/126416225-c822f57e-c40c-4dac-a41b-81f2d0e6294d.png)
 
-A new Flutter project.
 
-## Getting Started
+                                        PayFlow - "ORGANIZE SEUS BOLETOS EM UM SÓ LUGAR" 
+<h4>💻 Sobre o projeto:</h4>
 
-This project is a starting point for a Flutter application.
+Desenvolvido em Flutter durante a NLW- NEXT LEVEL WEEK, evento promovido pela Rocketseat o "PayFlow" é um aplicativo de gerenciamento de boletos. Nele é possível agendar e realizar pagamentos atraves da leitura do código de barras e também QR CODE.
 
-A few resources to get you started if this is your first Flutter project:
+<h4>⚙️Funcionalidades: </h4>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Gestão financeira de contas e pagamentos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Cadastro de boletos:
+   Nome da conta
+   Valor
+   Vencimento
+   Registro de pagamento
+ 
+ - Leitura de boletos via camêra
+    código de barras
+    QRCode(Firebase MLKit com QRCode Reading)
+    
+-Login Social Google (Gmail)
+
+
+
+<h4>👁️‍🗨️ Layout:</h4>
+O Layout do Aplicativo foi desenvolvido pelo Tiago Luchtenberg e está disponível no Figma 
+ #
+ <img src="https://img.shields.io/badge/Acessar%20Layout-Figma-yellow"/>
+
+
+<h4>🎲Como executar o projeto:</h4>
+
+Configure corretamente o ambiente de desenvolvimento Flutter em sua máquina. Para mais detalhes consulte o link:
+https://flutter.dev/docs/get-started/install
+
+Clone este repositório:
+
+$ git clone https://github.com/Daniellabarbosa/PayFlow payflow
+
+Acesse a pasta do projeto no terminal/cmd:
+
+$ cd payflow
+
+Instale as dependências: 
+
+$ flutter pub get
+
+Execute o app:
+
+$ flutter run
+
+
+<h4> 🔈Agradecimentos:</h4>
+
+Esse projeto foi feito por Daniella Barbosa, mas não seria possível sem os ensinamentos do mestre @GabulDev e toda a equipe insana da @Rocketseat.🚀 
+
+Obrigada! 🤍
