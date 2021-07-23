@@ -27,7 +27,7 @@ Desenvolvido em Flutter durante a NLW- NEXT LEVEL WEEK, evento promovido pela Ro
 
 <h4>👁️‍🗨️ Layout:</h4>
 O Layout do Aplicativo foi desenvolvido pelo Tiago Luchtenberg e está disponível no Figma 
- #
+ 
  <img src="https://img.shields.io/badge/Acessar%20Layout-Figma-yellow"/>
 
 
