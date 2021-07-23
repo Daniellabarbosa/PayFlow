@@ -21,7 +21,7 @@ Desenvolvido em Flutter durante a NLW- NEXT LEVEL WEEK, evento promovido pela Ro
     - código de barras
     - QRCode(Firebase MLKit com QRCode Reading)
     
--Login Social Google (Gmail)
+ - Login Social Google (Gmail)
 
 
 
