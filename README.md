@@ -12,14 +12,14 @@ Desenvolvido em Flutter durante a NLW- NEXT LEVEL WEEK, evento promovido pela Ro
 - Gestão financeira de contas e pagamentos.
 
 - Cadastro de boletos:
-   Nome da conta
-   Valor
-   Vencimento
-   Registro de pagamento
+   - Nome da conta
+   - Valor
+   - Vencimento
+   - Registro de pagamento
  
  - Leitura de boletos via camêra
-    código de barras
-    QRCode(Firebase MLKit com QRCode Reading)
+    - código de barras
+    - QRCode(Firebase MLKit com QRCode Reading)
     
 -Login Social Google (Gmail)
 
