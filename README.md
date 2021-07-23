@@ -38,7 +38,7 @@ https://flutter.dev/docs/get-started/install
 
 Clone este repositório:
 
-$ git clone https://github.com/Daniellabarbosa/PayFlow payflow
+$ git clone https://github.com/Daniellabarbosa/PayFlow 
 
 Acesse a pasta do projeto no terminal/cmd:
 
